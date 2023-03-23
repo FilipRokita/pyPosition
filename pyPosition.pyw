@@ -1,4 +1,4 @@
-#pyPositions
+#pyPosition
 #Filip Rokita
 #www.filiprokita.com
 
