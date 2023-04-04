@@ -13,7 +13,3 @@ pyPosition is a simple Python application that displays the current position of 
 - Python 3.x
 - tkinter
 - pyautogui
-
-## Author
-
-This project was created by Filip Rokita. For more information, visit www.filiprokita.com.
